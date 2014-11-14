@@ -1,1 +1,7 @@
-new git doc, testing the git funcionality FTW, this is only a test not the real deal
+new git doc, testing the git funcionality FTW, this is only a test not the real 
+
+
+remember that the 
+
+username = hjbustos
+password = pamplinas2014
